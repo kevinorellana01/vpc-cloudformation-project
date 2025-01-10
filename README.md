@@ -68,7 +68,7 @@ ssh -i bastionhost.pem ec2-user@<bastion-server-public-ip>
 
 Here’s an overview of the architecture created in this project:
 
-*(Include a diagram if available. If not, describe key components as shown below.)*
+<img width="776" alt="Screen Shot 2025-01-10 at 9 11 54 AM" src="https://github.com/user-attachments/assets/fbeac745-8d65-4ae9-b00f-2b7b30530601" />
 
 - **VPC:** Includes CIDR block, DNS support, and DNS hostnames enabled.
 - **Subnets:** 1 public and 2 private subnets per Availability Zone.
@@ -100,9 +100,7 @@ Here’s an overview of the architecture created in this project:
 ## Author
 
 **Kevin Orellana**  
-Cloud Support Engineer and AWS Enthusiast  
-[LinkedIn](https://linkedin.com/in/kevinorellana)  
+[LinkedIn](https://www.linkedin.com/in/kevin-orellana-6457aa252) 
+[Medium](https://medium.com/@kevinn.orellana01/cloudformation-project-creating-an-aws-vpc-using-infrastructure-as-code-946ad0305f1c)
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
