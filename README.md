@@ -1,5 +1,3 @@
-# vpc-cloudformation-project
-
 # AWS VPC Creation with CloudFormation
 
 This repository contains an Infrastructure as Code (IaC) project to create a complete Virtual Private Cloud (VPC) on AWS using AWS CloudFormation. The project includes defining and provisioning VPC components like subnets, routing, an Internet Gateway, a bastion server, and EC2 instances. 
