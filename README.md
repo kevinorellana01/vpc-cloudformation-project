@@ -95,10 +95,4 @@ Here’s an overview of the architecture created in this project:
 - Best practices for creating secure and scalable network architectures in AWS.
 - Practical debugging techniques to handle common CloudFormation errors.
 
-## Author
-
-**Kevin Orellana**  
-[LinkedIn](https://www.linkedin.com/in/kevin-orellana-6457aa252) 
-[Medium](https://medium.com/@kevinn.orellana01/cloudformation-project-creating-an-aws-vpc-using-infrastructure-as-code-946ad0305f1c)
-
 
